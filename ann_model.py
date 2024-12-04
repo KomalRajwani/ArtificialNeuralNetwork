@@ -408,22 +408,3 @@
  "nbformat": 4,
  "nbformat_minor": 5
 }
-### Breakdown of Tests
-1. **Data Preparation**:
-   - Categorical variables are encoded.
-   - Features are scaled for optimal performance.
-2. **Model Training**:
-   - An ANN with `(5, 4, 5)` hidden layers is trained on the data.
-   - Logistic Regression is trained as a baseline.
-3. **Model Evaluation**:
-   - Confusion matrices and classification reports are generated for both models.
-
-### Deployment
-This project is designed for educational purposes. Deployment in production requires additional steps like deploying the model to a cloud environment or integrating it into a web application.
-
-## Author
-Komal Rajwani
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
