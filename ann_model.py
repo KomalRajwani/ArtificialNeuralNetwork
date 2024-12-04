@@ -14,3 +14,14 @@ This project demonstrates the implementation of an Artificial Neural Network (AN
 2. Run the Python file:
    ```bash
    python ann_model.py
+
+Navigate to the project directory:
+bash
+cd NeuralNetwork-DATA1200
+
+Install the required Python libraries:
+bash
+Copy code
+pip install pandas numpy matplotlib scikit-learn
+
+python ann_model.py
